@@ -1,5 +1,7 @@
 package id.ac.polbeng.joki.test_kelas
 
+import id.ac.polbeng.joki.test_kelas.joki.Greeter
+
 fun main() {
     val greeter = Greeter()
     greeter.greet()

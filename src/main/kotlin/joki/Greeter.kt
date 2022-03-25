@@ -1,4 +1,4 @@
-package id.ac.polbeng.joki.test_kelas
+package id.ac.polbeng.joki.test_kelas.joki
 
 class Greeter {
     var text: String = ""
